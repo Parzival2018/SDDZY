@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "56ba5caf-5c23-402d-9318-7eda1bcfd07f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "商业建筑": {
+      "ver": "1.0.4",
+      "uuid": "fe1ca9cf-2630-4985-8fae-07ec562a3b04",
+      "rawTextureUuid": "56ba5caf-5c23-402d-9318-7eda1bcfd07f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 38,
+      "offsetY": -12,
+      "trimX": 140,
+      "trimY": 176,
+      "width": 308,
+      "height": 184,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

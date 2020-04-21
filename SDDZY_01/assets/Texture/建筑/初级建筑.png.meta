@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "32c4ce94-ac49-4729-a266-d5d1f8f13bbf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "初级建筑": {
+      "ver": "1.0.4",
+      "uuid": "2f7635e5-f3f4-4035-a6dd-8b8d1852b9c7",
+      "rawTextureUuid": "32c4ce94-ac49-4729-a266-d5d1f8f13bbf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4,
+      "offsetY": 26,
+      "trimX": 40,
+      "trimY": 112,
+      "width": 440,
+      "height": 236,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
